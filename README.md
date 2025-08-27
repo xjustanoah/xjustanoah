@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with [Security Maid - Discord Bot](https://github.com/xjustanoah/securitymaid)
 
-- 📫 How to reach me **muxxlenetzwerk@gmail.com**
+- 📫 How to reach me **info@muxxle.com**
 
 - ⚡ Fun fact **Java is also a island**
 
