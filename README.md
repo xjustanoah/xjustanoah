@@ -40,10 +40,10 @@ A security-focused Discord bot I'm building. Contributions and ideas are welcome
 
 <div align="center">
   <a href="https://github.com/xjustanoah">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=xjustanoah&show_icons=true&hide_border=true&bg_color=0D1117&title_color=75F0D1&icon_color=9B8CFF&text_color=C9D1D9" alt="Noah's GitHub stats" />
+    <img height="165" src="https://github-stats-extended.vercel.app/api?username=xjustanoah&show_icons=true&hide_border=true&bg_color=0D1117&title_color=75F0D1&icon_color=9B8CFF&text_color=C9D1D9" alt="Noah's GitHub stats" />
   </a>
   <a href="https://github.com/xjustanoah">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xjustanoah&layout=compact&hide_border=true&bg_color=0D1117&title_color=75F0D1&text_color=C9D1D9" alt="Most used languages on GitHub" />
+    <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=xjustanoah&layout=compact&hide_border=true&bg_color=0D1117&title_color=75F0D1&text_color=C9D1D9" alt="Most used languages on GitHub" />
   </a>
 </div>
 
