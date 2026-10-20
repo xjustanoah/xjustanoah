@@ -1,28 +1,62 @@
-<h1 align="center">Hi, I'm Noah</h1>
-<h3 align="center">Computer scientist since I was 12 y/o</h3>
+<div align="center">
+  <img src="./assets/profile-hero.svg" alt="Noah Muxxle — IT systems administrator and hobby developer" width="100%" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=xjustanoah&label=Profile%20views&color=0e75b6&style=flat" alt="xjustanoah" /> </p>
+  <p>
+    <a href="https://noah-muxxle.dev"><img src="https://img.shields.io/badge/PORTFOLIO-noah--muxxle.dev-101820?style=for-the-badge&logo=firefoxbrowser&logoColor=75F0D1" alt="Portfolio" /></a>
+    <a href="https://discord.gg/muxxle"><img src="https://img.shields.io/badge/DISCORD-join%20the%20community-101820?style=for-the-badge&logo=discord&logoColor=9B8CFF" alt="Join my Discord server" /></a>
+    <a href="mailto:info@muxxle.com"><img src="https://img.shields.io/badge/EMAIL-say%20hello-101820?style=for-the-badge&logo=gmail&logoColor=FF8E9E" alt="Email Noah" /></a>
+  </p>
+</div>
 
-- 🔭 I’m currently working on [Security Maid - Discord Bot](https://github.com/xjustanoah/securitymaid)
+<br />
 
-- 🌱 I’m currently learning **C#, C++ & Ruby**
+## A little about me
 
-- 🤝 I’m looking for help with [Security Maid - Discord Bot](https://github.com/xjustanoah/securitymaid)
+I'm Noah, an IT systems administrator and hobby developer from Austria. I enjoy building systems, websites, and small tools—with a focus on clean technology and a clear experience for the people using them.
 
-- 📫 How to reach me **info@muxxle.com**
+My favorite work happens where **systems administration, automation, and development** meet.
 
-- ⚡ Fun fact **Java is also a island**
+## On my workbench
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/xjustnoah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xjustnoah" height="30" width="40" /></a>
-<a href="https://discord.gg/muxxle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="muxxle" height="30" width="40" /></a>
+### [Security Maid](https://github.com/xjustanoah/securitymaid)
+
+A security-focused Discord bot I'm building. Contributions and ideas are welcome!
+
+<p>
+  <a href="https://github.com/xjustanoah/securitymaid"><img src="https://img.shields.io/badge/EXPLORE%20THE%20PROJECT-181F2A?style=for-the-badge&logo=github&logoColor=75F0D1" alt="Explore Security Maid on GitHub" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+## Tools in my toolbox
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xjustanoah&show_icons=true&locale=en&layout=compact" alt="xjustanoah" /></p>
+<p>
+  <img src="https://img.shields.io/badge/SYSTEMS%20%26%20INFRA-Linux%20·%20Docker%20·%20Nginx%20·%20Grafana-101820?style=flat-square&labelColor=101820&color=1A665B" alt="Systems and infrastructure: Linux, Docker, Nginx, Grafana" />
+  <br />
+  <img src="https://img.shields.io/badge/LANGUAGES-C%23%20·%20C%2B%2B%20·%20Go%20·%20Java%20·%20Python%20·%20Ruby%20·%20Rust-101820?style=flat-square&labelColor=101820&color=384C77" alt="Languages: C sharp, C plus plus, Go, Java, Python, Ruby, Rust" />
+  <br />
+  <img src="https://img.shields.io/badge/WEB%20%26%20DATA-Angular%20·%20React%20·%20Node.js%20·%20PostgreSQL%20·%20Redis-101820?style=flat-square&labelColor=101820&color=593E68" alt="Web and data: Angular, React, Node.js, PostgreSQL, Redis" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xjustanoah&show_icons=true&locale=en" alt="xjustanoah" /></p>
+## A few GitHub stats
 
+<div align="center">
+  <a href="https://github.com/xjustanoah">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=xjustanoah&show_icons=true&hide_border=true&bg_color=0D1117&title_color=75F0D1&icon_color=9B8CFF&text_color=C9D1D9" alt="Noah's GitHub stats" />
+  </a>
+  <a href="https://github.com/xjustanoah">
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xjustanoah&layout=compact&hide_border=true&bg_color=0D1117&title_color=75F0D1&text_color=C9D1D9" alt="Most used languages on GitHub" />
+  </a>
+</div>
+
+<br />
+
+<div align="center">
+  <a href="https://www.instagram.com/xjustnoah">Instagram</a>
+  &nbsp;·&nbsp;
+  <a href="https://noah-muxxle.dev">Website</a>
+  &nbsp;·&nbsp;
+  <a href="https://discord.gg/muxxle">Discord</a>
+</div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=xjustanoah&label=PROFILE%20VIEWS&color=1A665B&style=flat-square" alt="Profile views" />
+</p>

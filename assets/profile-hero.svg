@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Noah Muxxle — IT systems administrator and hobby developer</title>
+  <desc id="desc">A dark, minimal banner with mint and violet accents, a subtle grid, and a terminal inspired illustration.</desc>
+  <defs>
+    <linearGradient id="background" x1="34" y1="18" x2="1135" y2="362" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#101820" />
+      <stop offset="1" stop-color="#0B0F14" />
+    </linearGradient>
+    <linearGradient id="accent" x1="87" y1="79" x2="657" y2="273" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#75F0D1" />
+      <stop offset="1" stop-color="#9B8CFF" />
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientTransform="matrix(330 205 -248 400 983 158)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#34465A" stop-opacity=".48" />
+      <stop offset="1" stop-color="#0B0F14" stop-opacity="0" />
+    </radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0v32" stroke="#C9D1D9" stroke-opacity=".045" />
+    </pattern>
+  </defs>
+  <rect width="1200" height="340" rx="24" fill="url(#background)" />
+  <rect width="1200" height="340" rx="24" fill="url(#grid)" />
+  <rect width="1200" height="340" rx="24" fill="url(#glow)" />
+  <rect x="1" y="1" width="1198" height="338" rx="23" stroke="#D8E5E8" stroke-opacity=".12" />
+
+  <g opacity=".75">
+    <circle cx="72" cy="73" r="5" fill="#75F0D1" />
+    <path d="M91 73h73" stroke="#75F0D1" stroke-opacity=".56" />
+    <path d="M1107 268h-73" stroke="#9B8CFF" stroke-opacity=".56" />
+    <circle cx="1126" cy="268" r="5" fill="#9B8CFF" />
+  </g>
+
+  <text x="72" y="126" fill="#AAB6C2" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" letter-spacing="3.2">IT SYSTEMS  /  SOFTWARE  /  AUTOMATION</text>
+  <text x="66" y="205" fill="#F2F6F8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="62" font-weight="750" letter-spacing="-2.5">Hey, I'm <tspan fill="url(#accent)">Noah.</tspan></text>
+  <text x="72" y="245" fill="#B7C2CC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="20">IT systems administrator · hobby developer · Austria</text>
+  <text x="72" y="294" fill="#75F0D1" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" letter-spacing="2">BUILDING USEFUL THINGS, ONE SYSTEM AT A TIME</text>
+
+  <g transform="translate(848 80)">
+    <rect width="275" height="179" rx="16" fill="#0B1016" fill-opacity=".78" stroke="#C5D3DD" stroke-opacity=".16" />
+    <path d="M1 43h273" stroke="#C5D3DD" stroke-opacity=".12" />
+    <circle cx="22" cy="22" r="4" fill="#FF8E9E" />
+    <circle cx="39" cy="22" r="4" fill="#F3CA7A" />
+    <circle cx="56" cy="22" r="4" fill="#75F0D1" />
+    <text x="20" y="76" fill="#9B8CFF" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14">$</text>
+    <text x="40" y="76" fill="#E7EEF3" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14">whoami</text>
+    <text x="20" y="105" fill="#75F0D1" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13">noah — builder of systems</text>
+    <text x="20" y="139" fill="#9B8CFF" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14">$</text>
+    <text x="40" y="139" fill="#E7EEF3" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14">make something useful</text>
+    <rect x="225" y="128" width="8" height="16" rx="1" fill="#75F0D1" />
+  </g>
+</svg>
